@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\build\\intermediates\\res\\merged\\debug\\transition\\curve.xml",
+        "source": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\src\\main\\res\\transition\\curve.xml"
+    },
+    {
+        "merged": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\build\\intermediates\\res\\merged\\debug\\transition\\move.xml",
+        "source": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\src\\main\\res\\transition\\move.xml"
+    }
+]

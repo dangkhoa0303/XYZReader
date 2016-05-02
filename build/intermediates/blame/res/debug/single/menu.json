@@ -1,9 +1,5 @@
 [
     {
-        "merged": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\Project 5\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\Project 5\\XYZReader\\src\\main\\res\\menu\\main.xml"
-    },
-    {
         "merged": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\src\\main\\res\\menu\\main.xml"
     }

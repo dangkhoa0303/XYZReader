@@ -9,4 +9,7 @@
 
     <string name="up">Up</string>
 
+    <!-- Shared element -->
+    <string name="transition_photo">transition</string>
+
 </resources>

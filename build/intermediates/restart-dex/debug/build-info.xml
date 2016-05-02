@@ -4,28 +4,28 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="71501516351913" >
+    timestamp="89351904655735" >
 
     <task
         name="javac"
-        duration="9251" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="664" />
+        duration="0" />
     <task
         name="verifier"
-        duration="286" />
+        duration="0" />
 
     <artifact
-        location="E:\UdacityAndroidProjects\AndroidNanodegree\Project 5\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        location="E:\UdacityAndroidProjects\AndroidNanodegree\XYZReader\build\outputs\apk\XYZReader-debug.apk"
         type="MAIN" />
 
-    <build timestamp="71501516351913" >
+    <build timestamp="89351904655735" >
         <artifact
-            location="E:\UdacityAndroidProjects\AndroidNanodegree\Project 5\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            location="E:\UdacityAndroidProjects\AndroidNanodegree\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
 
