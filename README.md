@@ -9,10 +9,10 @@ This project gives you an opportunity to improve an app’s design, a vital skil
 
 <h3>What Will I Learn?</h3>
 Through this project, you will:
-  _Understand the fundamentals of Android design.
-  _Apply Material Design guidelines to an mobile application.
-  _Separate an interface into surfaces.
-  _Effectively use transitions and motion.
+  Understand the fundamentals of Android design.
+  Apply Material Design guidelines to an mobile application.
+  Separate an interface into surfaces.
+  Effectively use transitions and motion.
 
 <h3>How Will I Complete this Project?</h3>
 You will improve an app for this project:
@@ -22,14 +22,14 @@ Your job will be to take the user feedback in the UI Review node, and implement 
 
 <h3>Supporting Courses</h3>
 You should have the skills you need to complete this app after completing:
-  _Developing Android Apps
-  _Advanced Android App Development
-  _Material Design for Android Developers
-  _You can also refer to the Material Design specification.
+  Developing Android Apps
+  Advanced Android App Development
+  Material Design for Android Developers
+  You can also refer to the Material Design specification.
 
 <h3>Required Tasks</h3>
-  _Read the UI Review in the next node.
-  _Spend time exploring the current state of the app, looking for ways it could be improved. The app will need multiple improvements. Be sure to look specifically at issues called out in the UI Review.
-  _Execute the improvements!
-  _Make a single GitHub repo with your code for the app and submit it through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.
-  _For detailed information on how your project will be assessed, see the Rubric node.
+  Read the UI Review in the next node.
+  Spend time exploring the current state of the app, looking for ways it could be improved. The app will need multiple improvements. Be sure to look specifically at issues called out in the UI Review.
+  Execute the improvements!
+  Make a single GitHub repo with your code for the app and submit it through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.
+  For detailed information on how your project will be assessed, see the Rubric node.
