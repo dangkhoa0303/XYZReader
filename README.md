@@ -9,9 +9,9 @@ This project gives you an opportunity to improve an app’s design, a vital skil
 
 <h3>What Will I Learn?</h3>
 Through this project, you will:
-  _Understand the fundamentals of Android design.<\n>
-  _Apply Material Design guidelines to an mobile application.<\n>
-  _Separate an interface into surfaces.<\n>
+  _Understand the fundamentals of Android design.
+  _Apply Material Design guidelines to an mobile application.
+  _Separate an interface into surfaces.
   _Effectively use transitions and motion.
 
 <h3>How Will I Complete this Project?</h3>
