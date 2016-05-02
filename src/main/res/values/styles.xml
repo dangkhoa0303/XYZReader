@@ -18,12 +18,48 @@
 <resources>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.NoActionBar">
-        <item name="android:colorPrimary">@color/colorPrimary</item>
 
     </style>
 
     <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
+
+    </style>
+
+    <style name="detail_title_text">
+        <item name="android:textColor">@color/header_color</item>
+        <item name="android:textSize">@dimen/detail_title_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingBottom">@dimen/detail_metabar_title_bottom_padding</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:lineSpacingMultiplier">0.9</item>
+        <item name="android:textAppearanceLarge">?android:attr/textAppearanceLarge</item>
+    </style>
+
+    <style name="detail_author_text">
+        <item name="android:textColor">@color/author_color</item>
+        <item name="android:textSize">@dimen/detail_author_text_size</item>
+        <item name="android:textAppearanceSmall">?android:attr/textAppearanceSmall</item>
+    </style>
+
+    <style name="detail_body_text">
+        <item name="android:textColor">@color/content_color</item>
+        <item name="android:textSize">@dimen/detail_body_text_size</item>
+        <item name="android:textAppearanceMedium">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColorLink">@color/theme_accent</item>
+        <item name="android:paddingBottom">@dimen/detail_body_bottom_margin</item>
+        <item name="android:lineSpacingMultiplier">@fraction/detail_body_line_spacing_multiplier
+        </item>
+        <item name="android:layout_marginLeft">@dimen/detail_inner_horiz_margin</item>
+        <item name="android:layout_marginRight">@dimen/detail_inner_horiz_margin</item>
+    </style>
+
+    <style name="share_floating_button">
+        <item name="android:layout_gravity">bottom|end</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_margin">@dimen/fab_margin</item>
+        <item name="android:src">@drawable/ic_share</item>
+        <item name="android:contentDescription">@string/action_share</item>
     </style>
 
 </resources>

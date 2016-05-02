@@ -1059,15 +1059,7 @@
                     "endOffset": 17893
                 },
                 "from": {
-                    "file": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\src\\main\\res\\values-v21\\styles.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 193,
-                        "endLine": 10,
-                        "endColumn": 12,
-                        "endOffset": 420
-                    }
+                    "file": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\src\\main\\res\\values-v21\\styles.xml"
                 }
             },
             {
@@ -1081,6 +1073,27 @@
                 },
                 "from": {
                     "file": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\src\\main\\res\\values-v21\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 18027,
+                    "endLine": 258,
+                    "endColumn": 12,
+                    "endOffset": 18615
+                },
+                "from": {
+                    "file": "E:\\UdacityAndroidProjects\\AndroidNanodegree\\XYZReader\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1025
+                    }
                 }
             }
         ]

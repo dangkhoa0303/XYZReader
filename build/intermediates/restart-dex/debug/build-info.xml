@@ -4,7 +4,7 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="89351904655735" >
+    timestamp="93362537162611" >
 
     <task
         name="javac"
@@ -20,13 +20,18 @@
         duration="0" />
 
     <artifact
-        location="E:\UdacityAndroidProjects\AndroidNanodegree\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-        type="MAIN" />
+        location="E:\UdacityAndroidProjects\AndroidNanodegree\XYZReader\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="89351904655735" >
+    <build timestamp="93053622403235" >
         <artifact
             location="E:\UdacityAndroidProjects\AndroidNanodegree\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="93362537162611" >
+        <artifact
+            location="E:\UdacityAndroidProjects\AndroidNanodegree\XYZReader\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

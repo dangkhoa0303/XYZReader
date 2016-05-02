@@ -48,4 +48,13 @@
         <item name="android:paddingStart">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingEnd">@dimen/abc_action_bar_overflow_padding_end_material</item>
     </style>
+    <style name="share_floating_button">
+        <item name="android:layout_gravity">bottom|end</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_margin">@dimen/fab_margin</item>
+        <item name="android:src">@drawable/ic_share</item>
+        <item name="android:contentDescription">@string/action_share</item>
+    </style>
 </resources>
